@@ -1,17 +1,10 @@
 <h1 align="center">Hi 👋, I'm Swati Kumari Das</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Swati-Kumari-Das/Swati-Kumari-Das/main/banner.jpg" alt="Swati aesthetic banner" width="600" />
+  <img src="https://raw.githubusercontent.com/Swati-Kumari-Das/Swati-Kumari-Das/main/banner.jpg" alt="Swati aesthetic banner" width="900" />
 </p>
 
-<p align="center">
-  I'm a passionate <strong>MERN Stack Developer</strong> who loves building full-stack applications to sharpen my skills.  
-  I’ve worked on real-world projects that helped me enhance both frontend and backend abilities.  
-  I also regularly practice <strong>DSA in Java</strong> to improve my problem-solving mindset.  
-  <br/><br/>
-  💖 I love coding because it has the power to transform thoughts into stunning visuals —  
-  a way to turn imagination into reality through design and logic ✨
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=I'm+a+MERN+Stack+Developer.;I+love+Frontend+and+UI+Design!;Always+learning+something+new." alt="Typing SVG - Blue" />
