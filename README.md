@@ -15,9 +15,6 @@
 <img align="right" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG0zcWxlcjhvcDI3bjZkdDQzMjh4dWpoZTh2dThtMzZtZXo0NXVwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Swati coding aesthetic" />
 
 
-- 🌱 I’m currently learning **Typescript**
-
-- 🔭 I’m currently working on **prep-Wise (AI Mock interview preparation tool)** (Full-stack project)
 
 - 👩‍💻 All of my projects are available at [My GitHub Repos](https://github.com/Swati-Kumari-Das)
 - My Portfolio-https://swatikumaridas.vercel.app/
