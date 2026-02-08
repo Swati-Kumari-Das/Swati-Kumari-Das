@@ -57,10 +57,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Swati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swati-Kumari-Das&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swati-Kumari-Das&layout=compact&theme=radical)
 
 
 
