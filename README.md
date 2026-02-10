@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swati Kumari Das</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Swati-Kumari-Das/Swati-Kumari-Das/main/banner.jpg" alt="Swati aesthetic banner" style="width:100%; max-width:1000px; border-radius: 10px;" />
-</p>
+</p> -->
 
 
 
